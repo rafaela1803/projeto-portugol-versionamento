@@ -43,3 +43,5 @@ Inicio
         Escreval("Opção Inválida! Escolha um número de 1 a 4.")
   FimEscolha
 Fimalgoritmo
+
+#Essa calculadora realiza a soma, subtração, multiplicação e divisão
