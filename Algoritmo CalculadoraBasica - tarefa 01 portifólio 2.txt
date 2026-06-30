@@ -44,4 +44,4 @@ Inicio
   FimEscolha
 Fimalgoritmo
 
-#Essa calculadora realiza a soma, subtração, multiplicação e divisão
+
